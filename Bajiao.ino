@@ -12,13 +12,7 @@
 //==========================
 String user = "bajiao";
 
-//String ssid = "LiuBenZhiYe-1307";
-//String pwd = "13071307";
-
-//String ssid="ZZ-Home";
-//String pwd="#@JiuY1Ju.com";
-
-String ssid="ai chi rou";
+String ssid="hahahahaha";
 String pwd="1qaz2wsx";
 
 //==========================
